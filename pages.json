@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "path": "pages/signup/signup",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+	{
+	  "path": "pages/home/home",
+	  "style": {
+	    "navigationStyle": "custom"
+	  }
+	}
+  ],
+  "globalStyle": {
+    "backgroundColor": "#f7fbef"
+  }
+}
